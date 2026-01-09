@@ -4,7 +4,7 @@ A simple command-line expense tracker built using Python to practice
 object-oriented programming and file handling.
 
 ## Features
-- Add, view, and delete expenses
+- Add, view & delete expenses
 - Categorize expenses
 - Store data in a CSV file
 - Calculate total expenses
